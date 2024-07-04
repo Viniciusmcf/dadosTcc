@@ -1,0 +1,69 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+client_launcher.exe		5,492 K	13,664 K	3404	BattlEye Launcher	BattlEye Innovations
+client.exe	0.95	619,212 K	712,868 K	692		
+
+Process: client_launcher.exe Pid: 3404
+
+Name	Description	Company Name	Path
+AcLayers.dll	Windows Compatibility DLL	Microsoft Corporation	C:\Windows\SysWOW64\AcLayers.dll
+advapi32.dll	Advanced Windows 32 Base API	Microsoft Corporation	C:\Windows\SysWOW64\advapi32.dll
+apphelp.dll	Application Compatibility Client Library	Microsoft Corporation	C:\Windows\SysWOW64\apphelp.dll
+bcrypt.dll	Windows Cryptographic Primitives Library (Wow64)	Microsoft Corporation	C:\Windows\SysWOW64\bcrypt.dll
+bcryptprimitives.dll	Windows Cryptographic Primitives Library	Microsoft Corporation	C:\Windows\SysWOW64\bcryptprimitives.dll
+cfgmgr32.dll	Configuration Manager DLL	Microsoft Corporation	C:\Windows\SysWOW64\cfgmgr32.dll
+client_launcher.exe	BattlEye Launcher	BattlEye Innovations	C:\Users\vinic\AppData\Local\Tibia\packages\Tibia\bin\client_launcher.exe
+combase.dll	Microsoft COM for Windows	Microsoft Corporation	C:\Windows\SysWOW64\combase.dll
+comctl32.dll	User Experience Controls Library	Microsoft Corporation	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db\comctl32.dll
+CoreMessaging.dll	Microsoft CoreMessaging Dll	Microsoft Corporation	C:\Windows\SysWOW64\CoreMessaging.dll
+CoreUIComponents.dll	Microsoft Core UI Components Dll	Microsoft Corporation	C:\Windows\SysWOW64\CoreUIComponents.dll
+crypt32.dll	Crypto API32	Microsoft Corporation	C:\Windows\SysWOW64\crypt32.dll
+dnsapi.dll	DNS Client API DLL	Microsoft Corporation	C:\Windows\SysWOW64\dnsapi.dll
+gdi32.dll	GDI Client DLL	Microsoft Corporation	C:\Windows\SysWOW64\gdi32.dll
+gdi32full.dll	GDI Client DLL	Microsoft Corporation	C:\Windows\SysWOW64\gdi32full.dll
+imm32.dll	Multi-User Windows IMM32 API Client DLL	Microsoft Corporation	C:\Windows\SysWOW64\imm32.dll
+IPHLPAPI.DLL	IP Helper API	Microsoft Corporation	C:\Windows\SysWOW64\IPHLPAPI.DLL
+kernel.appcore.dll	AppModel API Host	Microsoft Corporation	C:\Windows\SysWOW64\kernel.appcore.dll
+kernel32.dll	Windows NT BASE API Client DLL	Microsoft Corporation	C:\Windows\SysWOW64\kernel32.dll
+KernelBase.dll	Windows NT BASE API Client DLL	Microsoft Corporation	C:\Windows\SysWOW64\KernelBase.dll
+locale.nls			C:\Windows\System32\locale.nls
+mpr.dll	Multiple Provider Router DLL	Microsoft Corporation	C:\Windows\SysWOW64\mpr.dll
+msctf.dll	MSCTF Server DLL	Microsoft Corporation	C:\Windows\SysWOW64\msctf.dll
+mskeyprotect.dll	Microsoft Key Protection Provider	Microsoft Corporation	C:\Windows\SysWOW64\mskeyprotect.dll
+msvcp_win.dll	Microsoft® C Runtime Library	Microsoft Corporation	C:\Windows\SysWOW64\msvcp_win.dll
+msvcrt.dll	Windows NT CRT DLL	Microsoft Corporation	C:\Windows\SysWOW64\msvcrt.dll
+mswsock.dll	Microsoft Windows Sockets 2.0 Service Provider	Microsoft Corporation	C:\Windows\SysWOW64\mswsock.dll
+ncrypt.dll	Windows NCrypt Router	Microsoft Corporation	C:\Windows\SysWOW64\ncrypt.dll
+ncryptsslp.dll	Microsoft SChannel Provider	Microsoft Corporation	C:\Windows\SysWOW64\ncryptsslp.dll
+nsi.dll	NSI User-mode interface DLL	Microsoft Corporation	C:\Windows\SysWOW64\nsi.dll
+ntasn1.dll	Microsoft ASN.1 API	Microsoft Corporation	C:\Windows\SysWOW64\ntasn1.dll
+ntdll.dll	NT Layer DLL	Microsoft Corporation	C:\Windows\SysWOW64\ntdll.dll
+ntdll.dll	NT Layer DLL	Microsoft Corporation	C:\Windows\System32\ntdll.dll
+ntmarta.dll	Windows NT MARTA provider	Microsoft Corporation	C:\Windows\SysWOW64\ntmarta.dll
+oleaut32.dll	OLEAUT32.DLL	Microsoft Corporation	C:\Windows\SysWOW64\oleaut32.dll
+rasadhlp.dll	Remote Access AutoDial Helper	Microsoft Corporation	C:\Windows\SysWOW64\rasadhlp.dll
+rpcrt4.dll	Remote Procedure Call Runtime	Microsoft Corporation	C:\Windows\SysWOW64\rpcrt4.dll
+schannel.dll	TLS / SSL Security Provider	Microsoft Corporation	C:\Windows\SysWOW64\schannel.dll
+sechost.dll	Host for SCM/SDDL/LSA Lookup APIs	Microsoft Corporation	C:\Windows\SysWOW64\sechost.dll
+setupapi.dll	Windows Setup API	Microsoft Corporation	C:\Windows\SysWOW64\setupapi.dll
+sfc.dll	Windows File Protection	Microsoft Corporation	C:\Windows\SysWOW64\sfc.dll
+sfc_os.dll	Windows File Protection	Microsoft Corporation	C:\Windows\SysWOW64\sfc_os.dll
+SHCore.dll	SHCORE	Microsoft Corporation	C:\Windows\SysWOW64\SHCore.dll
+shell32.dll	Windows Shell Common Dll	Microsoft Corporation	C:\Windows\SysWOW64\shell32.dll
+shlwapi.dll	Shell Light-weight Utility Library	Microsoft Corporation	C:\Windows\SysWOW64\shlwapi.dll
+SortDefault.nls			C:\Windows\Globalization\Sorting\SortDefault.nls
+sspicli.dll	Security Support Provider Interface	Microsoft Corporation	C:\Windows\SysWOW64\sspicli.dll
+StaticCache.dat			C:\Windows\Fonts\StaticCache.dat
+TextInputFramework.dll	"TextInputFramework.DYNLINK"	Microsoft Corporation	C:\Windows\SysWOW64\TextInputFramework.dll
+TextShaping.dll			C:\Windows\SysWOW64\TextShaping.dll
+ucrtbase.dll	Microsoft® C Runtime Library	Microsoft Corporation	C:\Windows\SysWOW64\ucrtbase.dll
+user32.dll	Multi-User Windows USER API Client DLL	Microsoft Corporation	C:\Windows\SysWOW64\user32.dll
+uxtheme.dll	Microsoft UxTheme Library	Microsoft Corporation	C:\Windows\SysWOW64\uxtheme.dll
+win32u.dll	Win32u	Microsoft Corporation	C:\Windows\SysWOW64\win32u.dll
+windows.storage.dll	Microsoft WinRT Storage API	Microsoft Corporation	C:\Windows\SysWOW64\windows.storage.dll
+winspool.drv	Windows Spooler Driver	Microsoft Corporation	C:\Windows\SysWOW64\winspool.drv
+WinTypes.dll	Windows Base Types DLL	Microsoft Corporation	C:\Windows\SysWOW64\WinTypes.dll
+wldp.dll	Windows Lockdown Policy	Microsoft Corporation	C:\Windows\SysWOW64\wldp.dll
+wow64.dll	Win32 Emulation on NT64	Microsoft Corporation	C:\Windows\System32\wow64.dll
+wow64cpu.dll	AMD64 Wow64 CPU 	Microsoft Corporation	C:\Windows\System32\wow64cpu.dll
+wow64win.dll	Wow64 Console and Win32 API Logging	Microsoft Corporation	C:\Windows\System32\wow64win.dll
+ws2_32.dll	Windows Socket 2.0 32-Bit DLL	Microsoft Corporation	C:\Windows\SysWOW64\ws2_32.dll

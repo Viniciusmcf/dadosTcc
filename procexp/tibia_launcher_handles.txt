@@ -1,0 +1,54 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+client_launcher.exe		5,492 K	13,664 K	3404	BattlEye Launcher	BattlEye Innovations
+client.exe	1.29	617,980 K	711,476 K	692		
+
+Process: client_launcher.exe Pid: 3404
+
+Type	Name
+Desktop	\Default
+Directory	\KnownDlls
+Directory	\KnownDlls32
+Directory	\KnownDlls32
+Directory	\Sessions\1\BaseNamedObjects
+File	C:\Windows
+File	\Device\DeviceApi
+File	\Device\KsecDD
+File	\Device\Null
+File	C:\Users\vinic\AppData\Local\Tibia\packages\Tibia\bin
+File	\Device\CNG
+File	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db
+File	C:\Windows\Fonts\StaticCache.dat
+File	C:\Users\vinic\AppData\Local\Tibia\log\tibia-launcher.log
+File	\Device\Nsi
+Key	HKLM
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\Sorting\Versions
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\CustomLocale
+Key	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+Key	HKLM
+Key	HKLM\SOFTWARE\Microsoft\Ole
+Key	HKCU\Software\Classes\Local Settings
+Key	HKCU\Software\Classes\Local Settings\Software\Microsoft
+Key	HKLM\SYSTEM\ControlSet001\Control\NetworkProvider\HwOrder
+Key	HKLM\SYSTEM\ControlSet001\Control\NetworkProvider\ProviderOrder
+Key	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+Key	HKCU
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\Sorting\Ids
+Key	HKLM\SYSTEM\ControlSet001\Control\Session Manager
+Key	HKLM\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces
+Key	HKLM\SYSTEM\ControlSet001\Services\Tcpip6\Parameters\Interfaces
+Mutant	\Sessions\1\BaseNamedObjects\SM0:3404:168:WilStaging_02
+Mutant	\Sessions\1\BaseNamedObjects\SM0:3404:64:WilError_03
+Section	\Sessions\1\BaseNamedObjects\windows_shell_global_counters
+Section	\Windows\Theme3879309154
+Section	\Sessions\1\Windows\Theme1739604469
+Semaphore	\Sessions\1\BaseNamedObjects\SM0:3404:168:WilStaging_02_p0
+Semaphore	\Sessions\1\BaseNamedObjects\SM0:3404:64:WilError_03_p0
+Thread	client_launcher.exe(3404): 5172
+Thread	client_launcher.exe(3404): 5920
+Thread	client_launcher.exe(3404): 5172
+Thread	client_launcher.exe(3404): 1736
+Thread	client_launcher.exe(3404): 9468
+Thread	<Non-existent Process>(2072): 6512
+Thread	<Non-existent Process>(2072): 6512
+WindowStation	\Sessions\1\Windows\WindowStations\WinSta0
+WindowStation	\Sessions\1\Windows\WindowStations\WinSta0

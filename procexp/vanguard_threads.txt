@@ -1,0 +1,56 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+  vgc.exe	0.38	14,212 K	31,848 K	15552		
+vgtray.exe	< 0.01	3,364 K	11,872 K	16196	Vanguard tray notification.	Riot Games, Inc.
+
+Process: vgc.exe Pid: 15552
+
+Name	Description	Company Name	Path
+advapi32.dll	Advanced Windows 32 Base API	Microsoft Corporation	C:\Windows\System32\advapi32.dll
+bcrypt.dll	Windows Cryptographic Primitives Library	Microsoft Corporation	C:\Windows\System32\bcrypt.dll
+bcryptprimitives.dll	Windows Cryptographic Primitives Library	Microsoft Corporation	C:\Windows\System32\bcryptprimitives.dll
+clbcatq.dll	COM+ Configuration Catalog	Microsoft Corporation	C:\Windows\System32\clbcatq.dll
+combase.dll	Microsoft COM for Windows	Microsoft Corporation	C:\Windows\System32\combase.dll
+crypt32.dll	Crypto API32	Microsoft Corporation	C:\Windows\System32\crypt32.dll
+cryptbase.dll	Base cryptographic API DLL	Microsoft Corporation	C:\Windows\System32\cryptbase.dll
+cryptsp.dll	Cryptographic Service Provider API	Microsoft Corporation	C:\Windows\System32\cryptsp.dll
+dnsapi.dll	DNS Client API DLL	Microsoft Corporation	C:\Windows\System32\dnsapi.dll
+FWPUCLNT.DLL	FWP/IPsec User-Mode API	Microsoft Corporation	C:\Windows\System32\FWPUCLNT.DLL
+gdi32.dll	GDI Client DLL	Microsoft Corporation	C:\Windows\System32\gdi32.dll
+gdi32full.dll	GDI Client DLL	Microsoft Corporation	C:\Windows\System32\gdi32full.dll
+GdiPlus.dll	Microsoft GDI+	Microsoft Corporation	C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.3996_none_91a79472cc852ba0\GdiPlus.dll
+iertutil.dll	Run time utility for Internet Explorer	Microsoft Corporation	C:\Windows\System32\iertutil.dll
+IPHLPAPI.DLL	IP Helper API	Microsoft Corporation	C:\Windows\System32\IPHLPAPI.DLL
+kernel.appcore.dll	AppModel API Host	Microsoft Corporation	C:\Windows\System32\kernel.appcore.dll
+kernel32.dll	Windows NT BASE API Client DLL	Microsoft Corporation	C:\Windows\System32\kernel32.dll
+KernelBase.dll	Windows NT BASE API Client DLL	Microsoft Corporation	C:\Windows\System32\KernelBase.dll
+locale.nls			C:\Windows\System32\locale.nls
+msasn1.dll	ASN.1 Runtime APIs	Microsoft Corporation	C:\Windows\System32\msasn1.dll
+msvcp_win.dll	Microsoft® C Runtime Library	Microsoft Corporation	C:\Windows\System32\msvcp_win.dll
+msvcrt.dll	Windows NT CRT DLL	Microsoft Corporation	C:\Windows\System32\msvcrt.dll
+mswsock.dll	Microsoft Windows Sockets 2.0 Service Provider	Microsoft Corporation	C:\Windows\System32\mswsock.dll
+nsi.dll	NSI User-mode interface DLL	Microsoft Corporation	C:\Windows\System32\nsi.dll
+ntdll.dll	NT Layer DLL	Microsoft Corporation	C:\Windows\System32\ntdll.dll
+ntmarta.dll	Windows NT MARTA provider	Microsoft Corporation	C:\Windows\System32\ntmarta.dll
+ole32.dll	Microsoft OLE for Windows	Microsoft Corporation	C:\Windows\System32\ole32.dll
+oleaut32.dll	OLEAUT32.DLL	Microsoft Corporation	C:\Windows\System32\oleaut32.dll
+profapi.dll	User Profile Basic API	Microsoft Corporation	C:\Windows\System32\profapi.dll
+propsys.dll	Microsoft Property System	Microsoft Corporation	C:\Windows\System32\propsys.dll
+rasadhlp.dll	Remote Access AutoDial Helper	Microsoft Corporation	C:\Windows\System32\rasadhlp.dll
+rpcrt4.dll	Remote Procedure Call Runtime	Microsoft Corporation	C:\Windows\System32\rpcrt4.dll
+rsaenh.dll	Microsoft Enhanced Cryptographic Provider	Microsoft Corporation	C:\Windows\System32\rsaenh.dll
+sechost.dll	Host for SCM/SDDL/LSA Lookup APIs	Microsoft Corporation	C:\Windows\System32\sechost.dll
+SHCore.dll	SHCORE	Microsoft Corporation	C:\Windows\System32\SHCore.dll
+shell32.dll	Windows Shell Common Dll	Microsoft Corporation	C:\Windows\System32\shell32.dll
+shlwapi.dll	Shell Light-weight Utility Library	Microsoft Corporation	C:\Windows\System32\shlwapi.dll
+SortDefault.nls			C:\Windows\Globalization\Sorting\SortDefault.nls
+ucrtbase.dll	Microsoft® C Runtime Library	Microsoft Corporation	C:\Windows\System32\ucrtbase.dll
+user32.dll	Multi-User Windows USER API Client DLL	Microsoft Corporation	C:\Windows\System32\user32.dll
+userenv.dll	Userenv	Microsoft Corporation	C:\Windows\System32\userenv.dll
+vgc.exe	Vanguard user-mode service.	Riot Games, Inc.	C:\Program Files\Riot Vanguard\vgc.exe
+win32u.dll	Win32u	Microsoft Corporation	C:\Windows\System32\win32u.dll
+windows.storage.dll	Microsoft WinRT Storage API	Microsoft Corporation	C:\Windows\System32\windows.storage.dll
+wintrust.dll	Microsoft Trust Verification APIs	Microsoft Corporation	C:\Windows\System32\wintrust.dll
+Wldap32.dll	Win32 LDAP API DLL	Microsoft Corporation	C:\Windows\System32\Wldap32.dll
+wldp.dll	Windows Lockdown Policy	Microsoft Corporation	C:\Windows\System32\wldp.dll
+ws2_32.dll	Windows Socket 2.0 32-Bit DLL	Microsoft Corporation	C:\Windows\System32\ws2_32.dll
+wtsapi32.dll	Windows Remote Desktop Session Host Server SDK APIs	Microsoft Corporation	C:\Windows\System32\wtsapi32.dll

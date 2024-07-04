@@ -1,0 +1,72 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+   UserOOBEBroker.exe		2,152 K	6,652 K	11228	User OOBE Broker	Microsoft Corporation
+  BEService.exe	0.88	17,116 K	38,948 K	5024		
+ Unturned_BE.exe		5,520 K	32,256 K	10916	BattlEye Launcher	BattlEye Innovations
+
+Process: Unturned_BE.exe Pid: 10916
+
+Type	Name
+Desktop	\Default
+Directory	\KnownDlls
+Directory	\KnownDlls32
+Directory	\KnownDlls32
+Directory	\Sessions\1\BaseNamedObjects
+Event	\Sessions\1\BaseNamedObjects\SteamOverlayRunning_304930-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_InputEventStream_10916_written-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_InputEventStream_10916_avail-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_ScreenshotStream_10916_written-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_ScreenshotStream_10916_avail-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlayRender_PaintCmdStream_10916_written-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlayRender_PaintCmdStream_10916_avail-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_InGameRenderingCompleted_10916-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_VGUIPaintingCompleted_10916-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_SerializedWorkQueued_10916-IPCWrapper
+Event	\Sessions\1\BaseNamedObjects\GameOverlay_GameExitingEvent_10916-IPCWrapper
+File	C:\Windows
+File	\Device\KsecDD
+File	\Device\DeviceApi
+File	C:\Program Files (x86)\Steam\GameOverlayRenderer.log
+File	C:\Program Files (x86)\Steam\steamapps\common\Unturned
+File	C:\Windows\SysWOW64\en-US\user32.dll.mui
+File	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db
+File	\Device\CNG
+File	C:\Windows\Fonts\StaticCache.dat
+File	\Device\Nsi
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\CustomLocale
+Key	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\Sorting\Versions
+Key	HKLM
+Key	HKCU\Software\Classes\Local Settings\Software\Microsoft
+Key	HKLM
+Key	HKLM\SYSTEM\ControlSet001\Control\Session Manager
+Key	HKLM\SOFTWARE\Microsoft\Ole
+Key	HKCU\Software\Classes\Local Settings
+Key	HKCU
+Key	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\Sorting\Ids
+Key	HKLM\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces
+Key	HKLM\SYSTEM\ControlSet001\Services\Tcpip6\Parameters\Interfaces
+Mutant	\Sessions\1\BaseNamedObjects\SM0:10916:168:WilStaging_02
+Mutant	\Sessions\1\BaseNamedObjects\SteamXInput_mutex-IPCWrapper
+Mutant	\Sessions\1\BaseNamedObjects\GameOverlay_InputEventStream_10916_mutex-IPCWrapper
+Mutant	\Sessions\1\BaseNamedObjects\GameOverlay_ScreenshotStream_10916_mutex-IPCWrapper
+Mutant	\Sessions\1\BaseNamedObjects\GameOverlayRender_PaintCmdStream_10916_mutex-IPCWrapper
+Mutant	\Sessions\1\BaseNamedObjects\SteamGameStream_10916_mutex-IPCWrapper
+Mutant	\Sessions\1\BaseNamedObjects\SM0:10916:64:WilError_03
+Section	\Sessions\1\BaseNamedObjects\SteamXInput_mem-IPCWrapper
+Section	\Sessions\1\BaseNamedObjects\GameOverlay_InputEventStream_10916_mem-IPCWrapper
+Section	\Sessions\1\BaseNamedObjects\GameOverlay_ScreenshotStream_10916_mem-IPCWrapper
+Section	\Sessions\1\BaseNamedObjects\GameOverlayRender_PaintCmdStream_10916_mem-IPCWrapper
+Section	\Sessions\1\BaseNamedObjects\SteamGameStream_10916_mem-IPCWrapper
+Section	\Sessions\1\BaseNamedObjects\windows_shell_global_counters
+Section	\Windows\Theme3879309154
+Section	\Sessions\1\Windows\Theme1739604469
+Semaphore	\Sessions\1\BaseNamedObjects\SM0:10916:168:WilStaging_02_p0
+Semaphore	\Sessions\1\BaseNamedObjects\SM0:10916:64:WilError_03_p0
+Thread	Unturned_BE.exe(10916): 10912
+Thread	Unturned_BE.exe(10916): 10912
+Thread	Unturned_BE.exe(10916): 8480
+Thread	Unturned_BE.exe(10916): 14152
+Thread	Unturned_BE.exe(10916): 11616
+WindowStation	\Sessions\1\Windows\WindowStations\WinSta0
+WindowStation	\Sessions\1\Windows\WindowStations\WinSta0

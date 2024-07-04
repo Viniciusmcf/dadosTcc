@@ -1,0 +1,64 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+  vgc.exe	0.27	14,212 K	31,848 K	15552		
+vgtray.exe	< 0.01	3,364 K	11,872 K	16196	Vanguard tray notification.	Riot Games, Inc.
+
+Process: vgc.exe Pid: 15552
+
+Type	Name
+Desktop	\Default
+Directory	\KnownDlls
+Directory	\BaseNamedObjects
+Event	\KernelObjects\MaximumCommitCondition
+File	C:\Windows\System32
+File	C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.3996_none_91a79472cc852ba0
+File	\Device\KsecDD
+File	\Device\NamedPipe\933823D3-C77B-4BAE-89D7-A92B567236BC
+File	\Device\KsecDD
+File	\Device\CNG
+File	C:\Program Files\Riot Vanguard\Logs\vgc_15552_2024-04-26_03-55-46.log
+File	\Device\Nsi
+File	\Device\Afd
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\Sorting\Versions
+Key	HKLM
+Key	HKLM\SOFTWARE\Microsoft\Ole
+Key	HKU\.DEFAULT\Software\Classes\Local Settings\Software\Microsoft
+Key	HKLM
+Key	HKU\.DEFAULT\Software\Classes\Local Settings
+Key	HKLM\SYSTEM\ControlSet001\Control\Session Manager
+Key	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+Key	HKLM\SYSTEM\ControlSet001\Control\Nls\Sorting\Ids
+Key	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{905e63b6-c1bf-494e-b29c-65b732d3d21a}\PropertyBag
+Key	HKU\.DEFAULT\Control Panel\International
+Key	HKU\.DEFAULT
+Key	HKU\.DEFAULT\Software\Microsoft\Internet Explorer\Main
+Key	HKLM\SOFTWARE\Microsoft\Internet Explorer\Main
+Key	HKLM\SOFTWARE\Microsoft\Internet Explorer\Security
+Key	HKCR
+Key	HKU\.DEFAULT\Software\Classes
+Key	HKCR
+Key	HKU\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer
+Key	HKLM\SYSTEM\ControlSet001\Services\WinSock2\Parameters\Protocol_Catalog9
+Key	HKLM\SYSTEM\ControlSet001\Services\WinSock2\Parameters\NameSpace_Catalog5
+Key	HKLM\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces
+Key	HKLM\SYSTEM\ControlSet001\Services\Tcpip6\Parameters\Interfaces
+Mutant	\BaseNamedObjects\SM0:15552:304:WilStaging_02
+Mutant	\BaseNamedObjects\DBWinMutex
+Mutant	\BaseNamedObjects\vgc_mutex
+Mutant	\BaseNamedObjects\587203BC-5798-47BA-8BDA-C63D7DE25FCD
+Section	\BaseNamedObjects\windows_shell_global_counters
+Section	\BaseNamedObjects\__ComCatalogCache__
+Section	\BaseNamedObjects\__ComCatalogCache__
+Section	\BaseNamedObjects\windows_shell_global_counters
+Section	\BaseNamedObjects\294E088E-E3EF-42A9-AE0C-1EF642412F95
+Semaphore	\BaseNamedObjects\SM0:15552:304:WilStaging_02_p0
+Semaphore	\BaseNamedObjects\SM0:15552:304:WilStaging_02_p0h
+Thread	vgc.exe(15552): 2320
+Thread	vgc.exe(15552): 12036
+Thread	vgc.exe(15552): 8072
+Thread	vgc.exe(15552): 2320
+Thread	vgc.exe(15552): 10040
+Thread	vgc.exe(15552): 8724
+Thread	vgc.exe(15552): 9332
+Thread	vgc.exe(15552): 9332
+WindowStation	\Windows\WindowStations\Service-0x0-3e7$
+WindowStation	\Windows\WindowStations\Service-0x0-3e7$
